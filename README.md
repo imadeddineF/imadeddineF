@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning more about web development & discovering things related to the computer science field
 - 👯 I’m looking to collaborate on interesting web projects
 - 💬 Ask me about anything related to web development
-- ⚡ Fun fact: I love traveling
+- ⚡ Fun fact: I love traveling xD
