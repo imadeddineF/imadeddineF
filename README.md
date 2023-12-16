@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I’m currently working on some cool web projects
-- 🌱 I’m currently learning more about web development & discovering things related to the computer science field
-- 👯 I’m looking to collaborate on interesting opensource web projects
+- 🔭 I’m currently working on some cool software projects
+- 🌱 I’m currently learning more about software engineering & discovering things related to the computer science field
+- 👯 I’m looking to collaborate on interesting opensource projects
 - 💬 Feel free to ask me anything related to web development
-- ⚡ Fun fact: I love traveling xD
+- ⚡ Fun fact: I love traveling XD
