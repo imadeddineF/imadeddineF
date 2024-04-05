@@ -12,12 +12,12 @@
 [![My Skills](https://skillicons.dev/icons?i=nextjs,vite,react,prisma,mongodb,ts,js,tailwind,sass,materialui,css,html,nodejs,express,c,java,figma,linux)](https://3imad.dev)
 
 ## My Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=imadeddineF&theme=tokyonight&hide_border=true&border_radius=50&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=imadeddineF&theme=tokyonight&border_radius=50&card_width=600)](https://git.io/streak-stats)
 <br/>
 <br/>
 <br/>
-![3imad's GitHub stats](https://github-readme-stats.vercel.app/api?username=imadeddineF&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=50) &emsp; &emsp;
+![3imad's GitHub stats](https://github-readme-stats.vercel.app/api?username=imadeddineF&count_private=true&show_icons=true&theme=tokyonight&border_radius=20) &emsp; &emsp;
 <br/>
 <br/>
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadeddineF&theme=tokyonight&layout=compact&hide_border=true&border_radius=50)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadeddineF&theme=tokyonight&layout=compact&border_radius=20)
