@@ -17,5 +17,4 @@
 <br/>
 ![3imad's GitHub stats](https://github-readme-stats.vercel.app/api?username=imadeddineF&count_private=true&show_icons=true&theme=tokyonight&border_radius=30&card_width=600) &emsp; &emsp;
 <br/>
-<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadeddineF&theme=tokyonight&layout=compact&border_radius=30)
