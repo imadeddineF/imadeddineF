@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more about software engineering & discovering things related to the computer science field
 - 👯 I’m looking to collaborate on interesting opensource projects
 - 💬 Feel free to ask me anything related to web development
-- 💻 I enjoy learning operating systems stuff 
+- 💻 I enjoy learning about operating systems stuff 
 - ⚡ I watch anime and read manga
 
 
